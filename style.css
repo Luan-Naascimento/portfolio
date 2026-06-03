@@ -45,12 +45,7 @@ body::before {
 
 /* ─── NAV ─── */
 
-#navbarNav{
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  padding: 1rem 4rem;
-}
+
 
 .nav-logo img {
   height: 5vh;
